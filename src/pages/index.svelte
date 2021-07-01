@@ -62,10 +62,8 @@
         <h1 class="text-3xl font-bold opacity-90 dark:text-white text-gray-800">Why</h1>
         <ul class="text-lg font-semibold list-disc">
             <li>Fast</li>
-            <li>Easy to install</li>
-            <li>Responsive</li>
-            <li>Dark & Light mode</li>
-            <li>Custom 404 page</li>
+            <li>Easy to use</li>
+            <li>Customizable</li>
         </ul>
     </div>
 </div>
