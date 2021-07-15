@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/arc-sw.js"
-  to = "https://arc.io/arc-sw.js"
+  to = "https://api.snowflakedev.org/arc-sw.js"
   status = 200
